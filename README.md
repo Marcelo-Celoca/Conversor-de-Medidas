@@ -6,7 +6,7 @@ Projeto desenvolvido para consolidar o entendimento sobre funções e fluxo de d
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📋 Sobre o Projeto
-O objetivo principal deste exercício foi aplicar o conceito de modularização. Em vez de escrever todo o cálculo no fluxo principal do programa, cada tipo de conversão possui sua própria lógica isolada em funções específicas, facilitando a manutenção e futuras expansões do software.
+O objetivo principal deste exercício foi aplicar o conceito de **modularização**. Em vez de escrever todo o cálculo no fluxo principal do programa, cada tipo de conversão possui sua própria lógica isolada em funções específicas, facilitando a manutenção e futuras expansões do software.
 
 ## 🚀 Funcionalidades
 * **Conversão de Temperatura:** Transforma graus Celsius para Fahrenheit utilizando a fórmula: `(C * 1.8) + 32`.
